@@ -1,0 +1,31 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Scripts & build files
+*.bat
+Makefile
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+build/
+bin/
